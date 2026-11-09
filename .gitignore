@@ -1,0 +1,6 @@
+*.o
+src/task1
+src/task1_2
+src/task2_welcome
+src/task2_sum
+src/task2_range
